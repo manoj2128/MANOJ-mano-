@@ -1,6 +1,6 @@
 import { LuSubtitles } from 'react-icons/lu';
 import maImg from '../ma.png'
-import { AiOutlineInstagram, AiOutlineFacebook, AiOutlineLinkedin } from "react-icons/ai";   
+import { AiOutlineInstagram, AiOutlineFacebook, AiOutlineLinkedin} from "react-icons/ai";   
 import { BsInstagram } from 'react-icons/bs';
 import { FaFacebook } from 'react-icons/fa';
 import { LiaLinkedin } from 'react-icons/lia';
