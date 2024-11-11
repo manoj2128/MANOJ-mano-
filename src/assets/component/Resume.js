@@ -2,7 +2,7 @@ import resumeImg from '../resume.jpg';
 
 export default function Resume () {
          const config ={
-            link: 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf'
+            link: 'https://drive.google.com/file/d/1z1tmn0ChpftkEmNVxq58Nc0Hyz7pP8m6/view?usp=drivesdk'
          } 
 
     return <section id='resume' className='flex flex-col md:flex-row bg-secondary px-5 justify-center '>
